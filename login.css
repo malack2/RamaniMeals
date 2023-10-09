@@ -1,0 +1,137 @@
+#div1 {
+    background-color: white;
+    width: 12%;
+    float: right;
+    height: 5%;
+    border-radius: 25px;
+    margin-top: 3%;
+    margin-right: 10%;
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#div2 {
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    height: 60%;
+    border-radius: 50px;
+    margin-top: 80px;
+}
+
+#div3 {
+    background-color: 9BE25;
+    width: 15%;
+    margin: 0 auto;
+    height: 5%;
+    border-radius: 50px;
+    margin-top: 80px;
+}
+
+#div4 {
+    margin-left: 280px;
+    margin-top: 50px;
+
+}
+#div5 {
+    margin-left: -10%;
+}
+
+h1 {
+    margin-left: 10%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80px;
+}
+
+h2 {
+    margin-left: 15%;
+    color: F6D10C;
+    font: inter;
+    font-size: 150%;
+    margin-top: -5%;
+    margin-left: 19%;
+}
+#abt {
+    color:9BE25;font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px
+}
+#button1 {
+
+    background-color: white;
+    border-radius: 40%;
+    border: 1px solid #45be25;
+    height: 8%;
+    text-decoration: none;
+    width: 22%;
+    color: 45BE0C;
+    font:inter;
+    font-size: 130%;
+    font-weight: bold;
+    margin-left: 320px;
+    margin-top: 25px;
+}
+#button2 {
+    background-color: 9BE25;
+    border-radius: 40%;
+    border: none;
+    height: 8%;
+    width: 22%;
+    color: white;
+    font:inter;
+    font-size: 130%;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-top: -40px;
+}
+#usrnme {
+
+    border-color:5% solid #45be25;
+    width: 60%;
+    height: 8%;
+    background-color: white;
+    color: 9BE25;
+    text-align: center;
+    border-radius: 10%;
+    margin-left: -70px;
+
+}
+#pswd {
+
+    border-color:5% solid #45be25;
+            width: 60%;
+            height: 8%;
+            background-color: white;
+            color: 9BE25;
+            text-align: center;
+            border-radius: 10%;
+            margin-left: -70px;
+}
+#fpswd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin-left: 25%;
+            margin-top: -100%;
+            font-size: 50%;
+}
+#lgin {
+    background-color: 9BE25;border: none;
+            border-color:5% solid 9BE25;
+                width: 30%;
+                height: 8%;
+                color: white;
+                font-weight: bold;
+                font-size: 120%;
+                text-align: center;
+                border-radius: 30%;
+                margin-left: 0px;
+}
+#jk {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                font-size: 50%;
+                text-decoration:none;
+                color:9BE25;
+                font-size:80%;
+}
